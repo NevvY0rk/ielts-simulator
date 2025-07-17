@@ -1,5 +1,14 @@
 body {
-    font-family: Arial;
+    font-family: Arial, sans-serif;
     text-align: center;
-    margin-top: 50px;
+    padding: 50px;
+}
+.sections a {
+    display: block;
+    margin: 20px;
+    padding: 15px;
+    background: #0066cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
 }
